@@ -1,5 +1,5 @@
 <div align="center"> <h1 align="center"> Hi There! Welcome to my Git Hub 👋 </h1> </div>
-<b>Hi, My name is Bennett I am an aspiring data analyst<b>
+<b> Hey there! 👋 I'm Bennett, a data enthusiast who loves turning raw data into actionable insights. My journey involves decoding datasets and telling compelling stories through visualization. Let's navigate the data seas together! 🚀📈 #DataAnalytics #InsightsCrafting <b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
